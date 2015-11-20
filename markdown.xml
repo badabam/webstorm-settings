@@ -2,5 +2,5 @@
   <component name="MarkdownApplicationSettings">
     <MarkdownCssSettings StylesheetUri="file:$USER_HOME$/Library/Application%20Support/WebStorm11/markdown/lib/darcula.css" />
   </component>
-  <component name="MarkdownSettings" parsingTimeout="10000" smarts="false" quotes="false" abbreviations="false" hardWraps="false" autoLinks="false" wikiLinks="false" tables="false" definitions="false" fencedCodeBlocks="false" suppressHTMLBlocks="false" suppressInlineHTML="false" strikethrough="false" />
+  <component name="MarkdownSettings" parsingTimeout="10000" smarts="false" quotes="false" abbreviations="false" hardWraps="true" autoLinks="true" wikiLinks="false" tables="true" definitions="false" fencedCodeBlocks="false" suppressHTMLBlocks="false" suppressInlineHTML="false" strikethrough="true" />
 </application>
