@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/jerry/Development/mindsmash-ui/source/stylesheets/common/_colors.scss'" />
     <option name="defaultScopeName" value="File '/Users/jerry/Development/mindsmash-ui/source/stylesheets/common/_colors.scss'" />
+    <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/jerry/Development/mindsmash-ui/source/stylesheets/common/_colors.scss'" />
     <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
