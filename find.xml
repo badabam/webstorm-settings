@@ -1,16 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '/Users/jerry/Development/mindsmash-ui/source/stylesheets/common/_colors.scss'" />
     <option name="defaultScopeName" value="File '/Users/jerry/Development/mindsmash-ui/source/stylesheets/common/_colors.scss'" />
     <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/jerry/Development/mindsmash-ui/source/stylesheets/common/_colors.scss'" />
-    <option name="FILE_MASK" value="*.ejs" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -18,8 +15,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.scss</mask>
+      <mask>*.html</mask>
       <mask>*.js</mask>
-      <mask>*.ejs</mask>
     </recentFileMasks>
   </component>
 </application>
