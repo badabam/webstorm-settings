@@ -66,7 +66,12 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.1.0/bin/node" version="5.1.0" last-modified="1447793407000" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.4/bin/node" version="0.12.4" last-modified="1432352119000" />
   </component>
 </application>
