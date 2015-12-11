@@ -1,0 +1,10 @@
+<templateSet group="JavaScript">
+  <template name="iife" value="(function() {&#10;  'use strict';&#10;  &#10;  $END$&#10;})();" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
