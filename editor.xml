@@ -8,4 +8,7 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingOpacity" value="15" />
+  </component>
 </application>
