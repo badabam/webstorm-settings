@@ -3,6 +3,10 @@
   <action id="EmmetUpdateTag">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="FullyExpandTreeNode">
+    <keyboard-shortcut first-keystroke="multiply" />
+    <keyboard-shortcut first-keystroke="shift 8" />
+  </action>
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
