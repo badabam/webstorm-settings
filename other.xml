@@ -77,4 +77,17 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.4/bin/node" version="0.12.4" last-modified="1432352119000" />
   </component>
+  <component name="TabdirConfiguration">
+    <option name="charsInName" value="5" />
+    <option name="countMaxDirsFromStart" value="true" />
+    <option name="dirSeparator" value="|" />
+    <option name="filesExtensions" value="" />
+    <option name="maxDirsToShow" value="3" />
+    <option name="projectConfigEnabled" value="false" />
+    <option name="reduceDirNames" value="true" />
+    <option name="relativeTo" />
+    <option name="removeDuplicates" value="false" />
+    <option name="titleFormat" value="[{0}] {1}" />
+    <option name="useExtensions" value="Do not use" />
+  </component>
 </application>
