@@ -610,9 +610,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GROOVY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -1131,9 +1128,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.TABLE_CAPTION">
-      <value />
-    </option>
     <option name="MULTIMARKDOWN.TABLE_CELL_REVEN_CEVEN">
       <value>
         <option name="FOREGROUND" value="d0f5ce" />
@@ -1155,9 +1149,6 @@
         <option name="BACKGROUND" value="262626" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.WIKI_LINK_REF" baseAttributes="MULTIMARKDOWN.WIKI_LINK" />
-    <option name="MULTIMARKDOWN.WIKI_LINK_SEPARATOR" baseAttributes="MULTIMARKDOWN.WIKI_LINK" />
-    <option name="MULTIMARKDOWN.WIKI_LINK_TEXT" baseAttributes="MULTIMARKDOWN.WIKI_LINK_REF" />
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="808080" />
