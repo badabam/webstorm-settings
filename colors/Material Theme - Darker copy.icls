@@ -11,7 +11,7 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="444444" />
+    <option name="ADDED_LINES_COLOR" value="27442c" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
@@ -54,7 +54,7 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3b3b" />
     <option name="TEARLINE_COLOR" value="303030" />
     <option name="WHITESPACES" value="303030" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d9f5dd" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="8b8f89" />
   </colors>
   <attributes>
     <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
@@ -119,6 +119,13 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="252b39" />
+      </value>
+    </option>
+    <option name="BROWSEWORDATCARET">
+      <value>
+        <option name="FOREGROUND" value="d9f5dd" />
+        <option name="BACKGROUND" value="69a5b1" />
+        <option name="ERROR_STRIPE_COLOR" value="526da5" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -188,7 +195,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7f00" />
+        <option name="FOREGROUND" value="7db22d" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
