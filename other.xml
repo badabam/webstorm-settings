@@ -76,6 +76,7 @@
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.3.0/bin/node" version="4.3.0" last-modified="1455023904000" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.10/bin/node" version="0.12.10" last-modified="1455023530000" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.4/bin/node" version="0.12.4" last-modified="1432352119000" />
   </component>
   <component name="TabdirConfiguration">
