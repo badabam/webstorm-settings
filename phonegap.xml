@@ -1,5 +1,5 @@
 <application>
   <component name="PhoneGapSettings">
-    <option name="executablePath" value="$USER_HOME$/.nvm/versions/node/v4.3.0/bin/ionic" />
+    <option name="executablePath" value="$USER_HOME$/.nvm/versions/node/v4.3.1/bin/cordova" />
   </component>
 </application>
