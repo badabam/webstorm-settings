@@ -96,4 +96,124 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
+  <template name="ss" value="this.setState({$END$})" description="setState" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="SQL" value="false" />
+      <option name="PL/SQL" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="cwm" value="componentWillMount () {&#10;  $END$&#10;}" description="componentWillMount" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="SQL" value="false" />
+      <option name="PL/SQL" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="cdm" value="componentDidMount () {&#10;  $END$&#10;}" description="componentDidMount" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="SQL" value="false" />
+      <option name="PL/SQL" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="cl" value="console.log($SELECTION$);" description="console.log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="SQL" value="false" />
+      <option name="PL/SQL" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="cwu" value="componentWillUnmount () {&#10;  $END$&#10;}" description="componentWillUnmount" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="SQL" value="false" />
+      <option name="PL/SQL" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
 </templateSet>
