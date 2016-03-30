@@ -74,6 +74,20 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.3.1/bin/node">
+      <version-cache version="4.3.1" last-modified="1455666390000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.3/bin/node">
+      <version-cache version="4.2.3" last-modified="1449180091000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.10/bin/node">
+      <version-cache version="0.12.10" last-modified="1455023530000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.4/bin/node">
+      <version-cache version="0.12.4" last-modified="1432352119000" />
+    </local-interpreter>
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.10/bin/node" version="0.12.10" last-modified="1455023530000" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.3.1/bin/node" version="4.3.1" last-modified="1455666390000" />
