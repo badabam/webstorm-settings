@@ -12,7 +12,6 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="80" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
