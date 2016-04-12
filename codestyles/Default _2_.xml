@@ -19,6 +19,7 @@
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
   </JSCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
