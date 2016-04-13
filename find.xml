@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '/Users/Jerry/Development/vwa-patternplate/patterns/atoms'" />
     <option name="defaultScopeName" value="Directory '/Users/Jerry/Development/vwa-patternplate/patterns/atoms'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/Jerry/Development/vwa-patternplate/patterns/atoms'" />
     <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
