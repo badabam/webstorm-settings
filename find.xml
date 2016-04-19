@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '/Users/Jerry/Development/vwa-patternplate/patterns/atoms'" />
     <option name="defaultScopeName" value="Directory '/Users/Jerry/Development/vwa-patternplate/patterns/atoms'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/Jerry/Development/vwa-patternplate/patterns/atoms'" />
     <recentFileMasks>
       <mask>*.properties</mask>
