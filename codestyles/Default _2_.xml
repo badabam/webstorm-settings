@@ -47,6 +47,8 @@
   </DBN-SQL>
   <TypeScriptCodeStyleSettings>
     <option name="SPACE_AFTER_TYPE_COLON" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -113,7 +115,6 @@
   <codeStyleSettings language="TypeScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
