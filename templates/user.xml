@@ -222,12 +222,9 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="logf" value="console.log('$user$/$file$:$line$ $comp$'$MORE$);$END$" description="log current file and line" toReformat="true" toShortenFQNames="true">
-    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="false" />
-    <variable name="file" expression="fileName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="line" expression="lineNumber()" defaultValue="" alwaysStopAt="false" />
-    <variable name="comp" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <variable name="MORE" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="log" value="console.log('---- $TEXT$', $VARS$);$END$" description="console.log" toReformat="true" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML_TEXT" value="false" />
       <option name="HTML" value="false" />
